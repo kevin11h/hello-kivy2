@@ -25,3 +25,6 @@ class MyFirstKivyApp(App):
 # Initializes and starts
 # our Kivy applications
 MyFirstKivyApp().run()`
+
+
+![](https://github.com/kevin11hg/hello-kivy/blob/main/kivy%20go%20game.png) 
